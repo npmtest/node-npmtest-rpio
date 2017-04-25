@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [rpio (v0.9.16)](https://github.com/jperkin/node-rpio#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rpio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rpio.svg)](https://travis-ci.org/npmtest/node-npmtest-rpio)",
+    "description": "#### basic test coverage for  [rpio (v0.9.16)](https://github.com/jperkin/node-rpio#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rpio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rpio.svg)](https://travis-ci.org/npmtest/node-npmtest-rpio)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "rpio": "*",
